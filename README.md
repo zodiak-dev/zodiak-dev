@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+<img width="1536" height="1024" alt="REMOVE BG" src="https://github.com/user-attachments/assets/0b0c8183-b53c-47bd-a01b-f7df77223b8a" />
+
 You can reach me on discord - zodiak.dev
 
 

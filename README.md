@@ -5,4 +5,5 @@
 
 # **📞 Contact**
 
-Discord ![Discord](https://cdn3.emoji.gg/emojis/953632-mobileuser.png)
+Discord
+<img width="680" height="762" alt="contact" src="https://github.com/user-attachments/assets/aae34da7-2848-46f3-8bd6-64fe1ccaadf0" />
